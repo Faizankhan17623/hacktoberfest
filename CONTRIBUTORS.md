@@ -2427,3 +2427,10 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+
+
+#### Name:[Faizan Khan](https://github.com/Faizankhan17623)
+- Place : Maharashtra ,India
+- Bio : Full Stack developer
+- Github:[Faizan Khan](https://github.com/Faizankhan17623)
